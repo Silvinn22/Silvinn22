@@ -24,29 +24,6 @@ Estudante de Segurança da Informação focado em Pentest, com prática em ambie
 
 ⚠️ Todo conteúdo é educacional e ético.
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Pentest Simulation</title>
-  <style>
-    body {
-      background-color: #0b0b0b;
-      color: #00ff99;
-      font-family: monospace;
-      text-align: center;
-      padding-top: 15%;
-    }
-    .box {
-      border: 1px solid #00ff99;
-      padding: 30px;
-      width: 70%;
-      margin: auto;
-    }
-  </style>
-</head>
-<body>
+🌐 **Demo de Segurança**
+👉 https://Silvinn22.github.io/pentest-demo
 
-  <div class="box">
-    <h1>⚠️ SIMULAÇÃO DE SEGURANÇA ⚠️</h1>
-    <p
