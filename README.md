@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Silvinn22&show_icons=true&theme=dark" />
 </p>
 
 ---
@@ -23,3 +23,30 @@ Estudante de Segurança da Informação focado em Pentest, com prática em ambie
 ---
 
 ⚠️ Todo conteúdo é educacional e ético.
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Pentest Simulation</title>
+  <style>
+    body {
+      background-color: #0b0b0b;
+      color: #00ff99;
+      font-family: monospace;
+      text-align: center;
+      padding-top: 15%;
+    }
+    .box {
+      border: 1px solid #00ff99;
+      padding: 30px;
+      width: 70%;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <h1>⚠️ SIMULAÇÃO DE SEGURANÇA ⚠️</h1>
+    <p
